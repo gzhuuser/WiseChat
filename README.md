@@ -1,1 +1,3 @@
 # WiseChat
+
+As AI becomes increasingly integrated into daily life, providing quick and convenient answers, there are concerns that it may weaken users' independent thinking abilities. This project aims to address this issue by incorporating a quiz feature into AI interactions. After several rounds of conversation, the AI will automatically generate multiple-choice or short-answer questions based on recent discussions, encouraging users to engage in deeper reflection, foster critical thinking, and enhance understanding. By doing so, the project seeks to improve users' memory and comprehension of the information generated during the interactions.
